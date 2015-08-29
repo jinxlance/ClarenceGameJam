@@ -1,0 +1,3 @@
+Clarance=SWFs/Clarance.swf
+&Level_01=SWFs/Level_01.swf
+&MainMenu=SWFs/MainMenu.swf
